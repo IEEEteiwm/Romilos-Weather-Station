@@ -1,4 +1,4 @@
-# Romilos_WS - Romilos Weather Station
+# Romilos-Weather-Station
 
 ## Description
 This is a Weather Station that calculates temperature, humidity, wind speed, wind direction, heat index, atmospheric pressure, raining level and gas sensors such as MQ-2, MQ-3, MQ-5 and MQ-7. This Weather Station is dedicated on Romilos, a member of our IEEE Student branch who is not with us anymore.
