@@ -30,5 +30,4 @@ The application used to develop the project was the Arduino IDE where we program
 ## Project Status
 The current project has reached its final version, which was held on 30 November, by the IEEE Student Branch Western Macedonia University of Applied Sciences, Kastoria.
 
-## Schematic
-![schematic](Romilos Weather Station Final Schematic.png)
+
